@@ -12,7 +12,7 @@ O **Plano de Software** (PS) tem como propósito organizar e orientar o desenvol
   - Mateus Padilha de Oliveira
   - Diogo Felipe Alves Brugnerotto
 
-* **Repositório Git:** [Link para o repositório](https://www.example.com/)
+* **Repositório Git:** (https://github.com/RbHein/unofertas.git)
 * **Data de início:** 04 de agosto de 2025
 * **Previsão de término:** 08 de dezembro de 2025
 * **Versão do PS:** v2025.08.18
