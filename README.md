@@ -33,11 +33,14 @@ A falta de conhecimento e divulgação de itens promocionais e econômicos dispo
 
 #### Objetivo geral
 
-Descrever o objetivo geral que guia o desenvolvimento deste projeto.
+Apresentar promoções/ofertas para que os alunos consigam realizar as suas refeições de maneira mais econômica. Além de, alavancar as vendas de vendedores autonômos e as cantinas locais.
 
 #### Objetivos específicos
 
-Descrever os objetivos específicos traçados para alcançar o objetivo geral definido.
+- Demonstrar acessibilidade financeira ao estudante que deseja economizar ou não tenha condição financeira para arcar com os custos da alimentação;
+- Aumentar o comercial local;
+- Divulgar informações de utilidade ao estudante;
+- Expandir as escolhas alimentícias para os estudantes.
 
 ### Público-alvo
 
