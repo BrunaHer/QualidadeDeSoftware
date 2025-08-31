@@ -1,214 +1,190 @@
-# 📒 PLANO DE SOFTWARE
+📒 PLANO DE SOFTWARE
+O Plano de Software (PS) tem como propósito organizar e orientar o desenvolvimento do projeto, definindo visão, objetivos, escopo, equipe, cronograma e processos a serem seguidos. Ele funciona como guia de referência para garantir alinhamento entre os membros da equipe, rastreabilidade das atividades e evolução estruturada do software ao longo de seu ciclo de vida.
 
-O **Plano de Software** (PS) tem como propósito organizar e orientar o desenvolvimento do projeto, definindo visão, objetivos, escopo, equipe, cronograma e processos a serem seguidos. Ele funciona como guia de referência para garantir alinhamento entre os membros da equipe, rastreabilidade das atividades e evolução estruturada do software ao longo de seu ciclo de vida.
+📋 IDENTIFICAÇÃO DO PROJETO
+Nome do projeto: Unofertas
 
-## 📋 IDENTIFICAÇÃO DO PROJETO
+Equipe:
+  - Bruna Hergenraeder
+  - Amanda Cristina Moretto Lima Ferraz
+  - Gabriel Bregalda Staudt
+  - Mateus Padilha de Oliveira
+  - Diogo Felipe Alves Brugnerotto
 
-- **Nome do projeto:** Unofertas
-- **Equipe:**
-  - Bruna Hergenraeder
-  - Amanda Cristina Moretto Lima Ferraz
-  - Gabriel Bregalda Staudt
-  - Mateus Padilha de Oliveira
-  - Diogo Felipe Alves Brugnerotto
+Repositório Git: https://github.com/RbHein/unofertas.git
 
-* **Repositório Git:** (https://github.com/RbHein/unofertas.git)
-* **Data de início:** 04 de agosto de 2025
-* **Previsão de término:** 08 de dezembro de 2025
-* **Versão do PS:** v2025.08.18
+Data de início: 04 de agosto de 2025
 
----
+Previsão de término: 08 de dezembro de 2025
 
-## ⭐ INTRODUÇÃO
+Versão do PS: v2025.08.18
 
-### Contexto
+⭐ INTRODUÇÃO
+Contexto
+Este projeto é um aplicativo mobile direcionado a estudantes da Unochapecó para que eles acompanhem promoções disponibilizadas pelas cantinas e vendedores autônomos dentro da Universidade.
 
-Projeto Mobile direcionado à estudantes da Unochapecó a acompanhar promoções disponibilizadas pelas cantinas e vendedores autonômos dentro da Universidade.
+Problema
+A falta de conhecimento e divulgação de itens promocionais e econômicos disponibilizados pelas empresas.
 
-### Problema
+Objetivos
+Objetivo geral
+Apresentar promoções/ofertas para que os alunos consigam realizar as suas refeições de maneira mais econômica. Além de, alavancar as vendas de vendedores autônomos e as cantinas locais.
 
-A falta de conhecimento e divulgação de itens promocionais e econômicos disponibilizados pelas empresas. 
+Objetivos específicos
+Demonstrar acessibilidade financeira ao estudante que deseja economizar ou não tenha condição financeira para arcar com os custos da alimentação;
 
-### Objetivos
+Aumentar o comercial local;
 
-#### Objetivo geral
+Divulgar informações de utilidade ao estudante;
 
-Apresentar promoções/ofertas para que os alunos consigam realizar as suas refeições de maneira mais econômica. Além de, alavancar as vendas de vendedores autonômos e as cantinas locais.
+Expandir as escolhas alimentícias para os estudantes.
 
-#### Objetivos específicos
-
-- Demonstrar acessibilidade financeira ao estudante que deseja economizar ou não tenha condição financeira para arcar com os custos da alimentação;
-- Aumentar o comercial local;
-- Divulgar informações de utilidade ao estudante;
-- Expandir as escolhas alimentícias para os estudantes.
-
-### Público-alvo
-
+Público-alvo
 Público direcionado especialmente para estudantes da Unochapecó. Será divulgado por meio de notificações para o usuário.
 
----
+🏗️ ESCOPO
+📌 O detalhamento completo dos requisitos pode ser encontrado no Documento de Requisitos (DR):https://docs.google.com/document/d/1Z5HDqbo1dzf-nyOR-oyBdFMnUNiBB8KR8AnP-VcMLWM/edit?tab=t.0.
 
-## 🏗️ ESCOPO
+Resumo
+O estudante receberá notificações de promoções e pode acompanhar por meio de uma tela inicial (logada) as promoções já postadas, descrição, valor, localização e se disponível. Empresa/Vendedor Autônomo poderá cadastrar os itens e enviar as notificações promocionais para os demais.
 
-<h6 style="color: red;">AULA 04</h6>
+Principais funcionalidades
+Acompanhar Promoções;
 
-**📌 O detalhamento completo dos requisitos pode ser encontrado no [Documento de Requisitos (DR)](https://www.example.com/).**
+Receber em tempo real notificação de promoções;
 
-### Resumo
+Economizar dinheiro dos estudantes;
 
-O estudante receberá notificações de promoções e pode acompanhar por meio de uma tela inicial (logada) as promoções já postadas, descrição, valor, localização e se disponível.Empresa/Vendedor Autonômo poderá cadastrar os itens e enviar as notificações promocionais para os demais. 
+Aumentar o comércio local;
 
-### Principais funcionalidades
+Aumentar o alcance das cantinas.
 
-- Acompanhar Promoções;
-- Receber em tempo real notificação de promoções;
-- 
-Listar de 5 a 10 funcionalidades principais, resumidas em uma frase cada.
+Restrições / Limitações
+Aceitação das cantinas;
 
-### Restrições / Limitações
+Implantação;
 
-Indicar limitações tecnológicas, de prazo ou de escopo.
+Flexibilidade e atualizações.
 
-### Fora do escopo
+Fora do escopo
+Funcionalidades que não serão desenvolvidas neste projeto incluem um sistema de pagamento integrado, um sistema de avaliação de produtos, ou a integração com outras instituições além da Unochapecó. O projeto se limitará a divulgar as ofertas, sem intermediar transações financeiras.
 
-Indicar funcionalidades que não serão desenvolvidas neste projeto.
+🤝 ORGANIZAÇÃO E PAPÉIS
+Papéis da equipe de desenvolvimento
+Desempenhado por: Bruna Hergenraeder
 
----
+Principais atribuições: Gerenciar e Atribuir Tarefas, Desenvolver o Front-end, Liderança de Equipe.
 
-## 🤝 ORGANIZAÇÃO E PAPÉIS
+Desempenhado por: Mateus Padilha
 
-### Papéis da equipe de desenvolvimento
+Principais atribuições: Análise de dados, Ajuste de tarefas, Gerenciamento de telas.
 
+Desempenhado por: Amanda Cristina Moretto Lima Ferraz
 
-- **Desempenhado por:** Bruna Hergenraeder
-- **Principais atribuições:**
-  - Gerenciar e Atribuir Tarefas
-  - Desenvolver o Front-end
-  - Atribuição
-  - ...
+Principais atribuições: Desenvolver o Front-end.
 
-**Desempenhado por:** Mateus Padilha
-- **Principais atribuições:**
+Desempenhado por: Gabriel Bregalda Staudt
 
-**Desempenhado por:** Amanda Cristina Moretto Lima Ferraz
-- **Principais atribuições:**
-- Desenvolver o Front-end
+Principais atribuições: Teste de telas, Atribuir e gerenciar necessidades, Ajuste de interesses.
 
-**Desempenhado por:** Gabriel Bregalda Staudt
-- **Principais atribuições:**
+Desempenhado por: Diogo Felipe Alves Brugnerotto
 
-### Estrutura de trabalho
+Principais atribuições: Desenvolvimento Back-end, Suporte à infraestrutura.
 
-#### Divisões
+Estrutura de trabalho
+Divisões
+Não existem subgrupos de trabalho. A equipe é unida e todos trabalham em colaboração.
 
-Existem subgrupos de trabalho? Se sim, detalhar as responsabilidades específicas desses subgrupos.
+Comunicação interna
+Canais utilizados para comunicação:
+WhatsApp: Para alinhamentos pontuais e urgentes.
 
-#### Comunicação interna
+Reuniões presenciais: Para discussões detalhadas e planejamento.
 
-##### Canais utilizados para comunicação:
+Reuniões e periodicidade
+Reuniões de Planejamento: Semanais, com duração de 1 a 4 horas.
 
-- Alinhamentos pontuais realizados via WhatsApp
-- Alinhamentos presenciais todas as semanas
+Reuniões de Revisão: Diárias, com duração de 15 minutos a 1 hora.
 
-##### Reuniões e periodicidade
+Distribuição de tarefas
+As tarefas são priorizadas e atribuídas em reuniões semanais de planejamento. Cada membro da equipe tem a responsabilidade de atualizar seu status diariamente nas reuniões de revisão. O quadro Kanban será usado para visualizar o progresso de cada tarefa.
 
-- **Reunião (ex.: Reunião de planejamento):** Com o objetivo de [objetivo] será realizada à cada [período de tempo]
+Documentação e rastreabilidade
+Os documentos serão mantidos atualizados no repositório Git, em uma pasta dedicada. O histórico de commits e as Pull Requests (PRs) serão usados para rastrear as alterações e garantir a evolução estruturada do software.
 
-#### Distribuição de tarefas
+Integração de feedbacks
+Os feedbacks recebidos em sala de aula serão discutidos em reuniões semanais, e novas tarefas serão criadas no Kanban para incorporar as melhorias sugeridas.
 
-Descrever como as tarefas são priorizadas e atribuídas.
+Coordenação de entregas parciais
+Bruna Hergenraeder é a responsável pelo acompanhamento de prazos e garantia das entregas parciais. Ela usará o quadro Kanban para monitorar o andamento das tarefas e garantir que a equipe atenda aos prazos estabelecidos.
 
-#### Documentação e rastreabilidade
+💻 PROCESSO DE DESENVOLVIMENTO
+Processo ágil
+O projeto utilizará o framework Scrum. A equipe trabalhará em sprints semanais, com a meta de entregar incrementos de software funcionais a cada ciclo. O uso de Daily Scrums (reuniões diárias), Sprints Reviews (revisão do sprint) e Sprints Planning (planejamento do sprint) garante a flexibilidade e a adaptação contínua.
 
-Descrever como os documentos serão mantidos atualizados, como o repositório será organizado, e como evidências serão registradas.
+Definição de pronto (DoD)
+Uma tarefa ou funcionalidade é considerada "pronta" quando:
 
-#### Integração de feedbacks
+O código foi implementado e testado.
 
-Descrever como os feedbacks recebidos em sala serão integrados ao projeto.
+Passou em todos os testes unitários e de integração.
 
-#### Coordenação de entregas parciais
+O código foi revisado por outro membro da equipe.
 
-Quem é responsável pelo acompanhamento de prazos e garantia das entregas parciais? Como isso será feito?
+A funcionalidade foi validada e aprovada pelo "Product Owner" ou equipe de qualidade.
 
----
+A documentação interna e externa foi atualizada.
 
-## 💻 PROCESSO DE DESENVOLVIMENTO
+🗓️ CRONOGRAMA
+O cronograma do projeto será detalhado em um quadro Kanban, onde cada etapa (To Do, Doing, Done) será visualizada de forma clara. As tarefas serão organizadas por prioridade para garantir que as funcionalidades mais importantes sejam desenvolvidas primeiro.
 
-### Processo ágil
+⚙️ GESTÃO DE CONFIGURAÇÃO
+Estratégia de branches
+main: A branch principal, contendo apenas o código pronto para produção.
 
-<h6 style="color: red;">AULA 08</h6>
+develop: A branch de desenvolvimento, onde o trabalho diário é consolidado.
 
-Descrever qual é/será o processo ágil implementado e de que maneira ele é/será implementado.
+feature/<nome-da-funcionalidade>: Branches criadas a partir de develop para o desenvolvimento de novas funcionalidades.
 
-### Definição de pronto (DoD)
+hotfix/<nome-do-bug>: Branches criadas a partir de main para correções urgentes em produção.
 
-Explicar quais critérios devem ser atendidos para considerar uma tarefa ou funcionalidade concluída.
+As mesclagens de branches serão feitas via Pull Requests (PRs), que exigem no mínimo uma aprovação para serem mescladas.
 
----
+Política de commits
+As mensagens de commit devem seguir o padrão Convencional Commits, com o formato <tipo>: <descrição>, como em feat: adiciona tela de login ou fix: corrige bug de notificação. A frequência de commits deve ser constante, idealmente ao final de cada pequena tarefa.
 
-## 🗓️ CRONOGRAMA
+Gestão de mudanças
+Alterações nos requisitos serão registradas e aprovadas em reuniões semanais, com a Bruna como responsável pelo controle. O quadro Kanban e os documentos serão atualizados imediatamente após a aprovação de uma mudança no escopo ou prioridade.
 
-Detalhar o cronograma do projeto utilizando ferramentas visuais de preferência da equipe.
+☑️ GARANTIA DA QUALIDADE
+O detalhamento completo de como será realizada a gestão de qualidade do projeto pode ser encontrado no Plano de Garantia de Qualidade de Software (PGQS).
 
----
+📐 ARQUITETURA
+O detalhamento completo da arquitetura do projeto pode ser encontrado no Documento de Arquitetura de Software (DAS).
 
-## ⚙️ GESTÃO DE CONFIGURAÇÃO
+☠️ RISCOS E MITIGAÇÕES
+Risco	Probabilidade	Impacto	Ação de mitigação
+Bugs críticos não detectados	🟨 Média	🟥 Alto	Revisões de código regulares e testes automatizados.
+Baixa aceitação das cantinas	🟨 Média	🟥 Alto	Criar uma proposta de valor clara e realizar reuniões de apresentação e negociação.
+Desafios técnicos inesperados	🟨 Média	🟨 Médio	Realizar pesquisas e protótipos para as funcionalidades mais complexas antes do desenvolvimento.
+Incompatibilidade com dispositivos	🟩 Baixa	🟨 Médio	Testar o aplicativo em uma variedade de dispositivos e emuladores.
 
-### Estratégia de branches
+Exportar para as Planilhas
+🗂️ RECURSOS
+Hardware/ambiente
+O desenvolvimento será realizado em computadores pessoais (desktops e notebooks) dos membros da equipe. Será utilizado um ambiente de emulação para testes mobile, além de dispositivos físicos quando necessário. O backend e o banco de dados serão hospedados em uma plataforma de nuvem.
 
-- Definir os tipos de branches que serão utilizadas
-- Estabelecer regras para criação e mesclagem de branches
-- Explicar como as branches refletem o ciclo de desenvolvimento e integração contínua
+Softwares/ferramentas
+Linguagens e Frameworks: Flutter/Dart (Front-end), Node.js (Back-end).
 
-### Política de commits
+Banco de Dados: Firestore (Firebase) para dados em tempo real.
 
-- Definir o padrão de mensagem a ser seguido
-- Estabelecer a frequência esperada de commits
-- Explicar como os commits serão relacionados a tarefas para rastreabilidade
+Controle de Versão: Git e GitHub.
 
-### Gestão de mudanças
+Design: Figma para prototipagem e design de interfaces.
 
-- Explicar como alterações de requisitos serão registradas e aprovadas
-- Indicar como atualizar o Kanban e demais documentos quando houver mudanças
-- Definir como lidar com ajustes de prioridades ou escopo ao longo do projeto
+Comunicação: WhatsApp e Google Meet.
 
----
+Gestão de Projetos: Quadro Kanban (GitHub Projects).
 
-## ☑️ GARANTIA DA QUALIDADE
-
-<h6 style="color: red;">AULA 05</h6>
-
-O detalhamento completo de como será realizada a gestão de qualidade do projeto pode ser encontrado no [Plano de Garantia de Qualidade de Software (PGQS)](https://www.example.com/).
-
----
-
-## 📐 ARQUITETURA
-
-<h6 style="color: red;">AULA 07</h6>
-
-O detalhamento completo da arquitetura do projeto pode ser encontrado no [Documento de Arquitetura de Software (DAS)](https://www.example.com/).
-
----
-
-## ☠️ RISCOS E MITIGAÇÕES
-
-Listar riscos reais ou potenciais e ações práticas que serão aplicadas para mitigá-los.
-
-| Risco                        | Probabilidade                | Impacto                       | Ação de mitigação            |
-| ---------------------------- | ---------------------------- | ----------------------------- | ---------------------------- |
-| Risco                        | 🟥Alta / 🟨 Média / 🟩 Baixa | 🟥 Alto / 🟨 Médio / 🟩 Baixo | Ação                         |
-| Bugs críticos não detectados | 🟨 Média                     | 🟥 Alto                       | Revisões de código regulares |
-
----
-
-## 🗂️ RECURSOS
-
-### Hardware/ambiente
-
-Detalhar os recursos de hardware e/ou ambiente que serão utilizados para desenvolvimento do projeto.
-
-### Softwares/ferramentas
-
-Detalhar os recursos de software e/ou ferramentas que serão utilizados para desenvolvimento do projeto.
-
----
+Testes: Frameworks de testes unitários e de integração.
