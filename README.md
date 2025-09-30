@@ -127,7 +127,7 @@ Uma tarefa ou funcionalidade é considerada "pronta" quando:
 
 O código foi implementado e testado.
 
-Passou em todos os testes unitários e de integração.
+Passou em todos os testes e integração.
 
 O código foi revisado por outro membro da equipe.
 
@@ -175,9 +175,9 @@ Hardware/ambiente
 O desenvolvimento será realizado em computadores pessoais (desktops e notebooks) dos membros da equipe. Será utilizado um ambiente de emulação para testes mobile, além de dispositivos físicos quando necessário. O backend e o banco de dados serão hospedados em uma plataforma de nuvem.
 
 Softwares/ferramentas
-Linguagens e Frameworks: Flutter/Dart (Front-end), Node.js (Back-end).
+Linguagens e Frameworks: Typescript/Javascript (Front-end), Node.js (Back-end).
 
-Banco de Dados: Firestore (Firebase) para dados em tempo real.
+Banco de Dados: Firebase para dados em tempo real.
 
 Controle de Versão: Git e GitHub.
 
@@ -185,6 +185,6 @@ Design: Figma para prototipagem e design de interfaces.
 
 Comunicação: WhatsApp e Google Meet.
 
-Gestão de Projetos: Quadro Kanban (GitHub Projects).
+Gestão de Projetos: Quadro Kanban (Notion).
 
-Testes: Frameworks de testes unitários e de integração.
+Testes: Frameworks de testes unitários (EXPOGO) e de integração.
