@@ -168,9 +168,8 @@ O cronograma será acompanhado pelo Kanban:
 
 ## Estratégia de branches
 - `main` → código de produção  
-- `develop` → desenvolvimento contínuo  
-- `feature/<nome>` → novas funcionalidades  
-- `hotfix/<nome>` → correções urgentes
+- `dev` → desenvolvimento contínuo  
+- `dev-<nome>` → novos desenvolvimentos ou correções
   
 Mesclagens via Pull Requests, com no mínimo uma aprovação.
 
