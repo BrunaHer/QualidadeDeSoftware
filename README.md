@@ -94,6 +94,7 @@ Não serão desenvolvidos:
 ### Amanda Cristina Moretto Lima Ferraz
 **Principais atribuições:**
 - Desenvolvimento do Front-end
+- Testes
 
 ### Gabriel Bregalda Staudt
 **Principais atribuições:**
