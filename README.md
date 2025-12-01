@@ -54,6 +54,7 @@ Público direcionado especialmente para estudantes da Unochapecó. Será divulga
 🏗️ ESCOPO
 
 📌 O detalhamento completo dos requisitos pode ser encontrado no Documento de Requisitos (DR): https://docs.google.com/document/d/1Z5HDqbo1dzf-nyOR-oyBdFMnUNiBB8KR8AnP-VcMLWM/edit?tab=t.0.
+📌 O quadro kanban pode ser encontrado nos links: https://www.notion.so/27ddcc6324b280c9880ef0d08af83c8f?v=27ddcc6324b28013bb39000cadcdf869&source=copy_link / https://docs.google.com/spreadsheets/d/1ztxLk1gdYK6MFFB-w_e1_h7h0JmA0cbidEr9pp8tRjQ/edit?usp=sharing
 
 Resumo
 
