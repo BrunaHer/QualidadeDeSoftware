@@ -193,7 +193,7 @@ Alterações serão discutidas em reuniões semanais e atualizadas no Kanban pel
 
 📐 ARQUITETURA
 
-- **Documento de Arquitetura de Software (DAS):**
+- **Documento de Arquitetura de Software (DAS):** https://docs.google.com/document/d/1V-VIeoI3sR9nLDQBM44Sc3IsUwxek7ZPq-lYkP5TZt4/edit?usp=sharing
 
 ---
 
