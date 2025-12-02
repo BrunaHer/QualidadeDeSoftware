@@ -198,9 +198,7 @@ Alterações serão discutidas em reuniões semanais e atualizadas no Kanban pel
 ---
 
 # 🛡️ PLANO DE SEGURANÇA
-Documento:  
-https://docs.google.com/document/d/1mIIqRpMmzaCAeLbDqHJ5-f5ngHnxCdabDZ29qT4jWjk/edit?usp=sharing
-
+- **Plano de Segurança de Software (PSS):** https://docs.google.com/document/d/1-czyp2PXdeH3kZQg8w_yTd0rhaXxQU4QuGL__f8MMUA/edit?usp=sharing
 ---
 
 # ☠️ RISCOS E MITIGAÇÕES
