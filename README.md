@@ -187,6 +187,7 @@ Alterações serão discutidas em reuniões semanais e atualizadas no Kanban pel
 
 - **PGQS:** https://docs.google.com/document/d/1x7m5RUogQCi69s9KKDP6yl3N1tU1k-5WtYVFKpFbVvA/edit?usp=sharing
 - **Plano de Testes:** https://docs.google.com/spreadsheets/d/1ImL0HrS54HTCYK4pPpd_KhaRIDmVMYd6by24kp2ZbL0/edit
+- **Relatório de Testes**: 
 - **Dimensão de Confiança:** https://docs.google.com/document/d/1p9RXCo7yzp-SUJxyoKqtn0qWVOJuTHrQqOGOrZlMc7c/edit
 
 ---
