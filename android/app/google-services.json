@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234900215597",
+    "project_id": "unofertas",
+    "storage_bucket": "unofertas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234900215597:android:0e3485983dac9c881065a4",
+        "android_client_info": {
+          "package_name": "com.rbhein.unof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcystO35gsafWjFU_z90kGJfCgiC03CfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
